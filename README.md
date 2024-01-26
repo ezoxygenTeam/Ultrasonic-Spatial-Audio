@@ -14,7 +14,22 @@ Ultrasonic Spatial Audio is an innovative technology that uses variations in the
 
 ### Website: [Ultrasonic Spatial Audio](https://webaudio-a780d.web.app/)
 
-### Website usage instructions: 
+### Step-by-Step Guide
+
+Follow these steps for an optimal experience with our system:
+
+1. **Grant Microphone Access**
+   - Visit our website and agree to grant microphone permissions.
+
+2. **Prepare Your Device**
+   - Get ready with your smartphone or an ultrasonic transmitter capable of emitting frequencies of 18kHz and 20kHz. 
+     - **Note**: 18kHz is for the left audio channel, and 20kHz is for the right audio channel.
+
+3. **Select Music**
+   - Prepare your phone and choose any music from our options, for example, select `music 1`.
+
+4. **Adjust the Transmitter**
+   - Feel free to move the transmitter closer to or further from the receiving device to experience different sound effects.
 
 # The Usage Information
 
