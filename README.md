@@ -12,7 +12,9 @@ Ultrasonic Spatial Audio is an innovative technology that uses variations in the
 
 # Website Application Information
 
-Website: [Ultrasonic Spatial Audio](https://webaudio-a780d.web.app/)
+### Website: [Ultrasonic Spatial Audio](https://webaudio-a780d.web.app/)
+
+### Website usage instructions
 
 # The Usage Information
 
