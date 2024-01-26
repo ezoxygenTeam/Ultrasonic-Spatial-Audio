@@ -1,8 +1,12 @@
 ![picture](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/GH_LOGO(E).png)
 
+---
+
 # Ultrasonic Spatial Audio
 
 Ultrasonic Spatial Audio is an innovative technology that uses variations in the ultrasonic frequency domain to control the volume of the left and right channels of headphones, achieving an ideal spatial audio effect. The sound decreases as the distance from the device increases. For example, when a user's head, initially facing the audio device, turns to the right, the volume in the opposite left channel increases. In essence, it is an audio technology capable of 3D spatial computation.
+
+---
 
 # What is the Ultrasonic Spatial Audio feature?
 
@@ -16,6 +20,8 @@ Ultrasonic Spatial Audio is an innovative technology that uses variations in the
 - Changes sound distribution based on the direction of the user’s head, creating an immersive auditory experience.
 
 # Website Application Information
+
+---
 
 ### Website: [Ultrasonic Spatial Audio](https://webaudio-a780d.web.app/)
 
@@ -38,6 +44,8 @@ Follow these steps for an optimal experience with our system:
 
 4. **Adjust the Transmitter**
    - Feel free to move the transmitter closer to or further from the receiving device to experience different sound effects.
+
+---
 
 # Contact us
 
