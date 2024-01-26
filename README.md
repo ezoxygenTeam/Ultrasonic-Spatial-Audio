@@ -7,7 +7,7 @@ Ultrasonic Spatial Audio is an innovative technology that uses variations in the
 ### Key Features:
 
 - **Ultrasonic Frequency Control**: Precise control of sound distribution in space using ultrasonic technology.
-- **3D Spatial Audio**: Achieves three-dimensional spatial audio effects, enhancing the auditory experience.
+- **Spatial Audio**: Achieves spatial audio effects, enhancing the auditory experience.
 - **Directional Sensing**: Changes sound distribution based on the direction of the user’s head, creating an immersive auditory experience.
 
 # Website Application Information
@@ -22,8 +22,10 @@ Follow these steps for an optimal experience with our system:
    - Visit our website and agree to grant microphone permissions.
 
 2. **Prepare Your Device**
-   - Get ready with your smartphone or an ultrasonic transmitter capable of emitting frequencies of 18kHz and 20kHz. 
+   - Get ready with an ultrasonic transmitter or two smartphones[1] capable of emitting frequencies of 18kHz and 20kHz. 
      - **Note**: 18kHz is for the left audio channel, and 20kHz is for the right audio channel.
+     - [1](https://play.google.com/store/apps/details?id=com.boedec.hoel.frequencygenerator&hl=zh_TW&gl=US)
+     - (ios)
 
 3. **Select Music**
    - Prepare your phone and choose any music from our options, for example, select `music 1`.
@@ -31,16 +33,6 @@ Follow these steps for an optimal experience with our system:
 4. **Adjust the Transmitter**
    - Feel free to move the transmitter closer to or further from the receiving device to experience different sound effects.
 
-# The Usage Information
-
-### The Office-related links:
-
-test
-
-### Other related links:
-
-test
-
-### Contact us
+# Contact us
 
 Email: [service@genius-gh.com](mailto:service@genius-gh.com)
