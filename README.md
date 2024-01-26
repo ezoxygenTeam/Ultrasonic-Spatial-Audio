@@ -46,7 +46,11 @@ Follow these steps for an optimal experience with our system:
    - Feel free to move the transmitter closer to or further from the receiving device to experience different sound effects.
 
 ---
+# More Information
 
+[**The Introducrion PDF of Spatial Audio**](https://github.com/ezoxygenTeam/Ultrasonic-Spatial-Audio/blob/main/The%20Introduction%20of%20Spatial%20Audio.pdf)
+
+---
 # Contact us
 
 Email: [service@genius-gh.com](mailto:service@genius-gh.com)
