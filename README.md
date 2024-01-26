@@ -19,9 +19,9 @@ Ultrasonic Spatial Audio is an innovative technology that uses variations in the
 ### **Directional Sensing**:  
 - Changes sound distribution based on the direction of the user’s head, creating an immersive auditory experience.
 
-# Website Application Information
-
 ---
+
+# Website Application Information
 
 ### Website: [Ultrasonic Spatial Audio](https://webaudio-a780d.web.app/)
 
