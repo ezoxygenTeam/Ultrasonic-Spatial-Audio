@@ -1,3 +1,5 @@
+![picture](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/GH_LOGO(E).png)
+
 # Ultrasonic Spatial Audio
 
 Ultrasonic Spatial Audio is an innovative technology that uses variations in the ultrasonic frequency domain to control the volume of the left and right channels of headphones, achieving an ideal spatial audio effect. The sound decreases as the distance from the device increases. For example, when a user's head, initially facing the audio device, turns to the right, the volume in the opposite left channel increases. In essence, it is an audio technology capable of 3D spatial computation.
