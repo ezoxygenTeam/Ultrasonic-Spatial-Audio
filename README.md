@@ -25,7 +25,7 @@ Follow these steps for an optimal experience with our system:
    - Visit our website and agree to grant microphone permissions.
 
 2. **Prepare Your Device**
-   - Get ready with an ultrasonic transmitter or two smartphones[1] capable of emitting frequencies of 18kHz and 20kHz. 
+   - Get ready with an ultrasonic transmitter or two smartphones capable of emitting frequencies of 18kHz and 20kHz. 
      - **Note**: 18kHz is for the left audio channel, and 20kHz is for the right audio channel.
      - **Recommended frequency generator app:**
         - [Recommended Android App](https://play.google.com/store/apps/details?id=com.boedec.hoel.frequencygenerator&hl=zh_TW&gl=US)
